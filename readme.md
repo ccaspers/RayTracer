@@ -12,4 +12,4 @@ Created as an exercise for 'generative computer-graphics' at my college.
 * unoptmizied (aka. slow) rendering
 * no support for 3d-object-files
 
-[!Screenshot]
+![ScreenShot](https://raw.github.com/ccaspers/RayTracer/master/demo-image.png)
