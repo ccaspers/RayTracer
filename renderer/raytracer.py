@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 
-import Image
+from PIL import Image
 
 
 def _normalizeColor(color, colorDepth):
